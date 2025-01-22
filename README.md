@@ -12,6 +12,8 @@ while maintaining visual integrity. Welcome to the art of invisible communicatio
 
 * <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
+* <img src="https://img.shields.io/badge/python-3.7_%7C_3.8_%7C_3.9_%7C_3.10_%7C_3.11-blue?style=for-the-badge" />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
