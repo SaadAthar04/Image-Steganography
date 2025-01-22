@@ -38,9 +38,10 @@ These are the softwares you need to install before getting started.
 3. Install Python and ensure the pip package manager is installed
 4. Install required libraries
 
-  ```sh
+   ```sh
      pip install pillow stepic
-  ```
+     pip install tk
+   ```
 5. Save the provided script as image_steganography.py
 6. Execute the script using Python
    
