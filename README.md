@@ -24,6 +24,7 @@ These are the softwares you need to install before getting started.
 - Libraries:
   - Pillow (for image manipulation)
   - Stepic (for encoding and decoding messages)
+  - Tkinter (for frontend)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
